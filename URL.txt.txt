@@ -1,0 +1,2 @@
+URL Backend : https://kamil-ftds-009-p2m1.herokuapp.com/
+URL Frontend: https://kamil-churn-p2m1.herokuapp.com/
